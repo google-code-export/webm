@@ -1,0 +1,1 @@
+The WebM project is dedicated to developing high-quality video compression technology that is freely available to everyone. Please visit our [website](http://www.webmproject.org) to learn more!
